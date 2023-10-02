@@ -1,0 +1,38 @@
+.sideBar{
+    width: 264px;
+    height: 890px;
+}
+
+.lenta{
+    display: flex;
+    width: 264px;
+    padding: 12px 20px;
+    align-items: center;
+    gap: 12px;
+    color: #FFF;
+    border-radius: 12px;
+    background: #262626;
+}
+
+.lenta:hover{
+    color: black;
+    background: none;
+}
+
+.categoryText{
+    display: flex;
+    width: 264px;
+    padding: 12px 20px;
+    align-items: center;
+    gap: 12px;
+}
+
+.categoryText:hover{
+    width: 264px;
+    padding: 12px 20px;
+    align-items: center;
+    gap: 12px;
+    color: #FFF;
+    border-radius: 12px;
+    background: #262626;
+}

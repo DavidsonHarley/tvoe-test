@@ -1,0 +1,161 @@
+.content1{
+    display: flex;
+}
+
+.lenta{
+    display: flex;
+    width: 816px;
+    height: 372px;
+    padding-top: 32px;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 12px;
+    gap: 24px;
+    background: #FFF;
+    border-radius: 12px 12px 0 0;
+}
+
+.title{
+    color: #000;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 32px;
+}
+
+.news{
+    display: flex;
+    flex-direction: column;
+}
+
+.imageDescription{
+    display: flex;
+    margin-left: 32px;
+}
+
+.description{
+    margin-left: 8px;
+    color: #262626;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.timeCategory{
+    display: flex;
+    margin-left: 64px;
+}
+
+.time{
+    color: #838383;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+ }
+
+.category{
+    margin-left: 4px ;
+}
+
+.categoryButton{
+    display: flex;
+    padding: 4px 8px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 20px;
+    background: #FF6B00;
+    color: #FFF;
+    border: 0;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.marquee{
+    display: flex;
+}
+
+.warning{
+    display: flex;
+    width: 816px;   
+    height: 70px;
+    padding: 8px 0px;
+    border-radius: 0 0  12px 12px;
+    background: #262626;
+    color: #FFF;
+}
+
+.containerWarning{
+    display: flex;
+    align-items: center;
+}
+
+.warningText{
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #FFF;
+}
+
+.advertisement{
+    display: flex;
+    flex-direction: column;
+    margin-left: 12px;
+    width: 264px;
+    height: 412px;
+    padding: 12px;  
+    border-radius: 12px;
+    background: #FFF;
+}
+
+.containerTitle{
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.linkText{
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 4px;
+}
+
+.advertisementText{
+    color: #848484;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.imgAdvertisement{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 240px;
+    height: 310px;
+    flex-shrink: 0;
+    border-radius: 12px;
+    background: rgba(19, 19, 19, 0.42);
+}
+
+.imgAdvertisementText{
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.advertisementDescription{
+    width: 240px;
+    margin-top: 12px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

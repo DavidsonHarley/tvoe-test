@@ -1,0 +1,39 @@
+.frame2{
+    margin-left: 12px;
+    margin-top: 12px;
+    padding: 32px 32px;  
+    width: 1092px;
+    height: 272px;
+    border-radius: 12px;
+    background: #FFF;
+}
+
+.frame2Title{
+    display: flex;
+    align-items: flex-end;
+    padding: 0px 32px;
+}
+
+.title{
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.containerContent{
+    display: flex;
+}
+
+.containerCard{
+    display: flex;
+    flex-direction: column;
+}
+
+.containerSmal{
+    display: flex;
+}
+
+.small{
+ display: flex;
+}
