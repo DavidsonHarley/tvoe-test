@@ -1,0 +1,63 @@
+.frame3{
+    display: flex;
+    flex-direction: column;
+    margin-left: 12px;
+    margin-top: 12px;
+    width: 1096px;
+    height: 360px;
+}
+
+.titleFrame3{
+    display: flex;
+    align-items: flex-end;
+    padding: 16px 32px 16px 32px;
+}
+
+.title{
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.containerCards{
+    display: flex;
+}
+
+.cards{
+    display: flex;
+    flex-direction: column;
+    margin-right: 12px;
+    width: 264px;
+    height: 295px;
+    border-radius: 12px;
+    background: #FFF;
+}
+
+.date{
+    padding: 8px 12px 8px 12px;
+    color: #848484;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.description{
+    padding: 0 12px 16px 12px;
+    color: #333;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.containerSmal{
+    display: flex;
+    padding: 0 16px 12px 16px; 
+}
+
+.small{
+    display: flex;
+    margin-right: 8px ;
+}

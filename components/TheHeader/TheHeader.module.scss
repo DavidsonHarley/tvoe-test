@@ -1,7 +1,9 @@
 .header{
     display: flex;
     justify-content: flex-start;
+    align-items: center;
     width: 1440px;
+    height: 76px;
     padding: 20px 36px;
     align-items: center;
     gap: 105px;
@@ -19,7 +21,7 @@
 
 .conteinerInfo{
    display: flex;
-      
+
 }
 
 .newDate{
@@ -35,6 +37,7 @@
 
 .containerCurrency{
     display: flex;
+    align-items: center;
 }
 
 .currency{
@@ -51,7 +54,7 @@
 .containerContent{
     display: flex;
     width: 1000px;
-    align-items: flex-start;
+    align-items: center;
     justify-content: space-between;
 }
 

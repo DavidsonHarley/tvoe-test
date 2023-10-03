@@ -26,14 +26,57 @@
 }
 
 .containerCard{
+    margin-top: 24px;
+    margin-right: 16px;
+    width: 245px;
+    height: 160px;
+    border-radius: 12px;
+    background: #F2F2F2;
+}
+
+.cardTitle{
     display: flex;
-    flex-direction: column;
+    width: 245px;
+    padding: 12px 16px 8px 16px;
+    align-items: center;
+}
+
+.category{
+    display: flex;
+    padding: 4px 8px;
+    margin-right: 8px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 20px;
+    background: #FF6B00;
+    color: #FFF;
+}
+
+.date{
+    color: #474747;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.cardDescripion{
+    color: #333;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding: 0 16px 24px 16px;
 }
 
 .containerSmal{
     display: flex;
+    padding: 0 16px 12px 16px;
 }
 
 .small{
- display: flex;
+    display: flex;
+    margin-right: 8px;
 }
+

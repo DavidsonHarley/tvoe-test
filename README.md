@@ -1,6 +1,6 @@
 # Тестовое задание в IT-компанию TVOЁ
 		
-[Ссылка Figma] (https://www.figma.com/file/RvC8D6CDSU4yqPhhcyxzjw/Untitled?type=design&node-id=1%3A592&mode=dev)
+[Ссылка Figma](https://www.figma.com/file/RvC8D6CDSU4yqPhhcyxzjw/Untitled?type=design&node-id=1%3A592&mode=dev)
 
 Задача:
 Сверстать макет главной страницы.
